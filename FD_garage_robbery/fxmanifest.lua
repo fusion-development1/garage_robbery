@@ -3,7 +3,7 @@ game 'gta5'
 
 lua54 'yes'
 
-name 'esx_garage_robbery'
+name 'FD_garage_robbery'
 author 'Fusion Development'
 description 'ESX garage burglary using ox_inventory, ox_target and configurable dispatch'
 version '1.0.0'
